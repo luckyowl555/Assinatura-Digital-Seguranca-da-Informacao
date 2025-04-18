@@ -1,2 +1,2 @@
 # Assinatura-Digital-Node
-Nesse projeto, realizei um sistema de verificação de Assinatura Digital com o Node.Js. Como tarefa prát
+Nesse projeto, realizei um sistema de verificação de Assinatura Digital com o Node.Js. Como tarefa prá
