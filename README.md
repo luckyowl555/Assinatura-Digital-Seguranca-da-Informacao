@@ -1,2 +1,2 @@
 # Assinatura-Dig
-Nesse projeto, r
+Nesse projeto, 
