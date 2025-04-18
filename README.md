@@ -1,2 +1,2 @@
 # Assinatura-Digi
-Nesse projeto, realizei um sistem
+Nesse projeto, realizei um siste
