@@ -1,2 +1,2 @@
 # Assinatura-Dig
-Nesse projeto, realizei
+Nesse projeto, realize
