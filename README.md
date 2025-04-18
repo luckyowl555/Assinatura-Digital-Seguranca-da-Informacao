@@ -1,2 +1,2 @@
-# Assinatura-Digi
+# Assinatura-Dig
 Nesse projeto, realizei
