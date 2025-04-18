@@ -1,2 +1,2 @@
 # Assinatura-Digit
-Nesse projeto, realizei um sistema de verifi
+Nesse projeto, realizei um sistema de veri
