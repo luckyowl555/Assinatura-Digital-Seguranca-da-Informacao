@@ -1,2 +1,2 @@
 # Assinatura-Digit
-Nesse projeto, realizei um sistema de ve
+Nesse projeto, realizei um sistema de v
